@@ -1,0 +1,56 @@
+{
+  "categories": [
+    {
+      "id": 0,
+      "name": "technologia",
+      "words": [
+        "AI", "IoT", "blockchain", "quantum", "robotics",
+        "automation", "cyber-security", "cloud", "big data", "machine learning",
+        "AR", "VR", "5G", "drone", "wearable",
+        "biotech", "nanotech", "metaverse", "edge", "digital twin", "smart city", "chatbot", "autonomous car", "cryptography", "digital ethics",
+        "green IT", "Li-Fi", "haptic feedback", "neural interface", "digital sovereignty",
+        "serverless", "low-code", "digital twin", "digital campus", "quantum internet",
+        "neuromorphic", "brain-computer", "mixed reality", "data mesh", "federated learning"
+      ]
+    },
+    {
+      "id": 1,
+      "name": "climate",
+      "words": [
+        "greenhouse gas", "carbon footprint", "deforestation", "renewables", "sea-level rise",
+        "El Niño", "desertification", "coral bleaching", "biodiversity", "mitigation",
+        "adaptation", "permafrost", "hurricane", "drought", "heatwave",
+        "reforestation", "carbon capture", "methane", "ozone layer", "tipping point", "climate justice", "sustainability", "solar farm", "wind turbine", "green hydrogen",
+        "micro-plastics", "climate refugee", "ice-sheet melt", "ocean acidification", "urban heat island",
+        "climate finance", "net-zero", "afforestation", "blue carbon", "environmental DNA",
+        "wildfire", "glacial retreat", "degrowth", "nature-based solution", "carbon border tax"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "culture",
+      "words": [
+        "folklore", "heritage", "tradition", "language", "narrative",
+        "ritual", "cuisine", "festival", "mythology", "dance",
+        "music", "literature", "symbolism", "identity", "diversity",
+        "storytelling", "crafts", "philosophy", "architecture", "art", "cinema", "mural", "street art", "fashion", "calligraphy",
+        "oral history", "museum", "archive", "subculture", "pop culture",
+        "cultural memory", "diaspora", "digital heritage", "intangible culture", "collective trauma",
+        "folksong", "multilingualism", "performance art", "symposium", "heritage tourism"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "economy",
+      "words": [
+        "inflation", "recession", "GDP", "supply chain", "unemployment",
+        "trade", "taxation", "stock market", "inequality", "globalization",
+        "entrepreneurship", "investment", "deficit", "austerity", "productivity",
+        "interest rate", "consumption", "currency", "credit", "subsidy", "digital economy", "circular economy", "gig work", "fintech", "microfinance",
+        "blockchain asset", "sovereign fund", "carbon market", "reshoring", "shadow banking",
+        "green bond", "stakeholder value", "automation risk", "basic income", "crypto exchange",
+        "supply resilience", "platform economy", "de-dollarization", "ethical finance", "trade war"
+      ]
+    }
+  ]
+}
